@@ -1,0 +1,10 @@
+1733264038751:compile
+1733264848903:runMain com.rockthejvm.Main
+1733337239313:compile
+1733348908373:running com.rockthejvm.Main
+1733349034291:compile
+1733349041357:running com.rockthejvm.Main
+1733349072111:runMain com.rockthejvm.Main
+1733352562751:compile
+1733352661498:test:testOnly com.rockthejvm.SimpleTest
+1733425215369:test

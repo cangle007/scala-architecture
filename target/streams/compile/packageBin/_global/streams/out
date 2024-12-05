@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/scala-project_3-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/rockthejvm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/classes/com/rockthejvm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/rockthejvm/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/classes/com/rockthejvm/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/rockthejvm/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/classes/com/rockthejvm/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/rockthejvm/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cangle/Documents/github/scala-project/target/scala-3.5.2/classes/com/rockthejvm/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
